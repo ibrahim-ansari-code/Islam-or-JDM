@@ -7,3 +7,5 @@ used random forest and gradient boost, accuracy ~80%.
 data is 50/50 between normal fights and fights where one fighter jumped up weight, using data from kaggle and ufc stats.
 
 commiting at 7:11 PM, Nov 15, intensely waiting for the fight.
+
+update: Islam won! I am happy my model was wrong. 
